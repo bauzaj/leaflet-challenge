@@ -1,12 +1,17 @@
-Earthquake Mapper
+**Earthquake Mapper**
 
 
 This application uses Leaflet.js to create a map of earthquakes around the world, based on data from the United States Geological Survey (USGS).
 
-Getting Started
+
+
+**Getting Started**
 To use this application, simply download the repository and open the index.html file in your web browser.
 
-Usage
+
+
+
+**Usage**
 
 The map shows the location, depth, and magnitude of earthquakes that have occurred in the last month. The size of each marker on the map indicates the magnitude of the earthquake, while the color represents the depth of the earthquake:
 
@@ -19,7 +24,10 @@ A legend at the bottom-right corner of the map shows the different depth ranges 
 
 Clicking on a marker on the map displays a popup with information about the earthquake, including the location, time, and magnitude.
 
-Dependencies
+
+
+
+**Dependencies**
 This application uses the following libraries:
 
 Leaflet.js (https://leafletjs.com/)
