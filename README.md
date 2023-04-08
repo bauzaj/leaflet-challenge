@@ -29,6 +29,7 @@ Clicking on a marker on the map displays a popup with information about the eart
 
 
 **Dependencies**
+
 This application uses the following libraries:
 
 Leaflet.js (https://leafletjs.com/)
