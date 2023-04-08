@@ -6,6 +6,7 @@ This application uses Leaflet.js to create a map of earthquakes around the world
 
 
 **Getting Started**
+
 To use this application, simply download the repository and open the index.html file in your web browser.
 
 
